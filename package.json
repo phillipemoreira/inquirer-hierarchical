@@ -1,0 +1,44 @@
+{
+  "name": "inquirer-hierarchical",
+  "version": "0.0.1",
+  "description": "Hierarchical prompt for inquirer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phillipemoreira/inquirer-hierarchical.git"
+  },
+  "keywords": [
+    "command-line",
+    "hierarchical",
+    "cli",
+    "generator",
+    "prompt",
+    "inquirer"
+  ],
+  "author": "Phillipe Moreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phillipemoreira/inquirer-hierarchical/issues"
+  },
+  "homepage": "https://github.com/phillipemoreira/inquirer-hierarchical#readme",
+  "eslintConfig": {
+    "rules": {
+      "comma-dangle": [
+        2,
+        "always-multiline"
+      ],
+      "indent": [
+        2,
+        2,
+        {
+          "SwitchCase": 1
+        }
+      ],
+      "max-len": [2, 120, 2, {"ignoreUrls": true}],
+      "newline-per-chained-call": 0,
+      "no-use-before-define": 0
+    }
+  }
+}

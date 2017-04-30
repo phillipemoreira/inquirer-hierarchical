@@ -1,2 +1,2 @@
 # inquirer-hierarchical
-Hierarchical prompt for Inquirer.js
+Hierarchical prompt for [inquirer](https://github.com/SBoudrias/Inquirer.js)
